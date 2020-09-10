@@ -1,1 +1,1 @@
-# Bernard-gads-2020-projects
+# Bernard's GADS Practice Project Submission
